@@ -22,3 +22,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkumar553&show_icons=true&locale=en" alt="sahilkumar553" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar553&" alt="sahilkumar553" /></p>
+<img  alt="coding" width="100%" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flegnuefb30fdf1owkh98.gif">
+
