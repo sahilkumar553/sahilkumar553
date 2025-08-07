@@ -1,4 +1,3 @@
-[media pointer="file-service://file-TkhTqD1463CuTJj6Abb24y"]
 <h1 align="center">Hi 👋, I'm Sahil Kumar Gupta</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="330" src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif">
