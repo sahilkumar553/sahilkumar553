@@ -64,5 +64,9 @@ src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" />
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
   </a>
+  <a href="https://kubernetes.io/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg"
+       alt="kubernetes" width="50" height="50"/>
+</a>
 </p>
 
