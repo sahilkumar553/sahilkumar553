@@ -65,5 +65,3 @@ src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
   </a>
 </p>
-for devops and arrange devops tool 
-
