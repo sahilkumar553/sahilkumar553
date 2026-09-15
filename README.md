@@ -64,4 +64,5 @@ src="https://raw.githubusercontent.com/JokeDevil/JokeDevil/master/code.gif" />
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
   </a>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3333da34-3f33-40c5-9f30-47adabec882a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 </p>
